@@ -1,6 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-      font=poppins&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanuja+Nipun!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=35&color=040676&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanuja+Nipun!;" />
 </h1>
 
 <!--
