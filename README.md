@@ -7,9 +7,9 @@
     
 🔭 I’m currently an **undergraduate**
 
-🌱 I’m currently learning **Java, Python, C, C++**
+🌱 I’m currently learning **Mern,Java, Python, C, C++**
   
-💬 Ask me about **HTML, CSS, Animation**
+💬 Ask me about **Reactjs,HTML, CSS, Animation**
  
 ⚡ Fun fact **69% Vote. but not me**
   
