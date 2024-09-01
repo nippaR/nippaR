@@ -22,6 +22,26 @@
 <br/>
 <hr/>
 
+### Top Repositories
+
+* [Ai-Assistant-Mobile-App](https://github.com/nippaR/Ai-Assistant-Mobile-App.git)<br>
+* [Python_Basics](https://github.com/nippaR/Python_Basics.git)<br>
+* [venue-Selecting-function](https://github.com/nippaR/venue-Selecting-function.git)<br>
+* [Simple-CRUD-App](https://github.com/nippaR/Simple-CRUD-App.git)<br>
+
+<hr/>
+
+### Wanna read my articles?
+
+* <img src="https://drive.google.com/file/d/1zcn6-SRiZKwnp0EdOSJq6Qt6tHVxMrYe/view?usp=sharing" height="20"/>&nbsp;[Personal Blog](https://nippa46.wordpress.com/)
+
+<hr/><br>
+
+### Wanna get something done?
+
+* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr](https://www.fiverr.com/thanuj_motion?up_rollout=true)
+
+<hr/><br>
 <div align="center">
   <h2> ⚔️ My Contributions ⚔️ </h2>
   <br>
