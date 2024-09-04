@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=35&color=057600FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤗;+I'm+Thanuja+Nipun!;" />
 </h1>
 <hr/>
-###Who am I?
+### Who am I?
 
 I am an undergraduate student who loves software development. I like learning new technologies and using my skills to build useful and creative projects. I love to share knowledge with the rest of the world, and that's why I write a lot of articles. I also like to share my code so others can make use of it.
 
