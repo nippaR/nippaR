@@ -1,4 +1,8 @@
 <h1 align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" />
+</h1>
+
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=35&color=057600FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤗;+I'm+Thanuja+Nipun!;" />
 </h1>
 <hr/>
@@ -53,10 +57,11 @@ I am an undergraduate student who loves software development. I like learning ne
   <h2> ⚔️ My Contributions ⚔️ </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+<hr/>
   
   <br/><br/><br/>
 </div>
-
 
 
 
