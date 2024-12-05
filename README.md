@@ -28,6 +28,9 @@ I am an undergraduate student who loves software development. I like learning ne
 
 <h2 font=poppins> My stats </h2>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=loshaniramsha&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nippaR&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippaR&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
 <br/>
