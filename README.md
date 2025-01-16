@@ -28,7 +28,8 @@ I am an undergraduate student who loves software development. I like learning ne
 
 <h2 font=poppins> My stats </h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nippaR&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+![Thanuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=nippaR&show_icons=true&theme=transparent)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippaR&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
 <br/>
 <hr/>
@@ -62,6 +63,9 @@ I am an undergraduate student who loves software development. I like learning ne
   <h2> ⚔️ My Contributions ⚔️ </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+
+
 
 <hr/>
   
