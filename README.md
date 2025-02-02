@@ -23,15 +23,27 @@ I am an undergraduate student who loves software development. I like learning ne
 💬 Ask me about **Reactjs,HTML, CSS, Animation**
  
 ⚡ Fun fact **69% Vote. but not me**
-  
+
+<hr/>
 </div>
 
-<h2 font=poppins> My stats </h2>
+<h2 font=poppins align=center> My stats </h2>
 
+<table align="center" >
+<tr border="none">
+<td width="50%" align="left">
+  
 ![Thanuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=nippaR&show_icons=true&theme=transparent)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nippaR&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
-<br/>
+</td>
+<td width="50%" align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nippaR&theme=tokyonight)
+
+  
+  </td>
+</tr>
+</table>
 <hr/>
 
 ### Top Repositories
@@ -60,16 +72,7 @@ I am an undergraduate student who loves software development. I like learning ne
 
 <hr/><br>
 <div align="center">
-  <h2> ⚔️ My Contributions ⚔️ </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-
-
-
-<hr/>
-  
-  <br/><br/><br/>
 </div>
 
 
