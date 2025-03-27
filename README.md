@@ -49,9 +49,9 @@ I am an undergraduate student who loves software development. I like learning ne
 ### Top Repositories
 
 * [Ai-Assistant-Mobile-App](https://github.com/nippaR/Ai-Assistant-Mobile-App.git)<br>
-* [Python_Basics](https://github.com/nippaR/Python_Basics.git)<br>
-* [venue-Selecting-function](https://github.com/nippaR/venue-Selecting-function.git)<br>
-* [Simple-CRUD-App](https://github.com/nippaR/Simple-CRUD-App.git)<br>
+* [Web03 Technology](https://github.com/nippaR/Web3_Paypal_Clone.git)<br>
+* [Pocket_Pulse](https://github.com/nippaR/Pocket_Pulse.git)<br>
+* [SpringBoot 1.1](https://github.com/nippaR/SprinBoots_App1.1.git)<br>
 
 <hr/>
 
