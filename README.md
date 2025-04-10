@@ -16,11 +16,11 @@ I am an undergraduate student who loves software development. I like learning ne
 
 <div align="center">
     
-🔭 I’m currently an **undergraduate**
+🔭 I’m currently  **Junior Frontend Developer**
 
-🌱 I’m currently learning **Mern,Java, Python, C, C++**
+🌱 I’m currently learning **Mern, Java, Python, C, C++**
   
-💬 Ask me about **Reactjs,HTML, CSS, Animation**
+💬 Ask me about **Reactjs, SpringBoot , Java, Google Cloud, Java Script**
  
 ⚡ Fun fact **69% Vote. but not me**
 
