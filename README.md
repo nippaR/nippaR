@@ -20,7 +20,7 @@ I am an undergraduate student who loves software development. I like learning ne
 
 🌱 I’m currently learning **Mern, Java, Python, C, C++**
   
-💬 Ask me about **Reactjs, SpringBoot , Java, Google Cloud, Java Script**
+💬 Ask me about **Reactjs, SpringBoot , Java, Google Cloud, Java Script, Python**
  
 ⚡ Fun fact **69% Vote. but not me**
 
