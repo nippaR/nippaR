@@ -47,7 +47,8 @@ I am an undergraduate student who loves software development. I like learning ne
 </table>
 <hr/>
 
-[!nippaR's(Thanuja) GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nippaR\&theme=tokyo-night)](https://github.com/nippaR)
+[![Kusal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nippaR\&theme=tokyo-night)](https://github.com/nippaR)
+
 <hr/>
 
 ### Top Repositories
@@ -68,11 +69,7 @@ I am an undergraduate student who loves software development. I like learning ne
 ### Wanna get something done?
 
 * [fiverr](https://www.fiverr.com/thanuj_motion?up_rollout=true)
-
-<hr/><br>
-
-# My portfolio Explore My Designing Skills
-[Flikr](https://www.flickr.com/photos/197135313@N05/)
+* [Flikr](https://www.flickr.com/photos/197135313@N05/)
 
 <hr/><br>
 <div align="center">
