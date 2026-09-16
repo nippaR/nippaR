@@ -1,12 +1,19 @@
 
 <h1 align="center">
     <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width = 150px />
+    <!-- <img src="https://github.com/user-attachments/assets/b995c748-fb65-4676-8a79-9d28807e142b" width="100%" alt="spiderman" /> -->
+
 </h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=35&color=057600FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤗;+I'm+Thanuja+Nipun!;" />
 </h1>
 <hr/>
+<!-- <div align="center">
+    
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Designer.+Developer.;365+Days%2C+365+Ways.;Software+by+sunrise,+Digital+art+by+moonlight;With+Great+Power...;Comes+Great+Responsibility.)
+
+</div> -->
 
 ### Who am I?
 
@@ -34,21 +41,16 @@ I am an undergraduate student who loves software development. I like learning ne
 <tr border="none">
 <td width="50%" align="left">
   
-![Thanuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=nippaR&show_icons=true&theme=transparent)
+![Thanuja's GitHub stats](https://ghstats.dev/api/card?username=nippaR&border_radius=12)
 
 </td>
 <td width="50%" align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nippaR&theme=tokyonight)
+![Top Languages](https://ghstats.dev/api/langs?username=nippaR&layout=donut_vertical)
 
-  
   </td>
 </tr>
 </table>
-<hr/>
-
-[![Kusal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nippaR\&theme=tokyo-night)](https://github.com/nippaR)
-
 <hr/>
 
 ### Top Repositories
